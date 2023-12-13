@@ -4,4 +4,4 @@ My solutions to various project euler (projecteuler.net) problems. The site pres
 
 Solutions are organized by difficulty level, which is designated for each problem on the website. 
 
-I present this as an example of a coding project I have worked on in my spare time; I feel it a relevant display of my apitude for/enjoyment of CS and math. However, I don't wish to spoil the experience of solving for users. If requested, I can remove solutions to problems >100.
+I present this as an example of a coding project I have worked on in my spare time; I feel it is a relevant display of my enjoyment of CS and math. However, I don't wish to spoil the experience of solving for users. If requested, I can remove solutions to problems >100.
